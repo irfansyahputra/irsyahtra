@@ -1,0 +1,13 @@
+{
+  "name": "MinaMagz",
+  "short_name": "MnM",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [{
+    "src": "https://lh3.googleusercontent.com/-QDqCCQ10cnQ/WkAULqMa93I/AAAAAAAAADM/ZlLNpF9HWJk89kvBI1hwEQXN7ThP4I2uwCEwYBhgL/w140-h140-p/Ramai%2BBeud%2BLogo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#009933",
+  "theme_color": "#FFFFFF"
+}
